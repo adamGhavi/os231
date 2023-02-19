@@ -12,3 +12,4 @@ ZCZC W01 10 L03 GitHub related
 ZCZC W01 10 L03 GitHub Pages related
 ZCZC W01 180 L09 Weekly Assignments
 ZCZC W01 90 L05 QUIZ
+ZCZC W01 10 L01 SCELE/Discord related
