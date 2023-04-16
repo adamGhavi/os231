@@ -27,3 +27,5 @@ ZCZC W05 15 L03 GitHub related
 ZCZC W06 120 L09 Weekly Assignments
 ZCZC W06 60 L05 QUIZ
 ZCZC W06 15 L03 GitHub related
+ZCZC W07 60 L09 Weekly Assignments
+ZCZC W07 60 L03 GitHub related
